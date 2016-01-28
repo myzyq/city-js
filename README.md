@@ -15,8 +15,8 @@ html:
 
 js:
 ```js
-
-<script src="assets/js/city.js"></script>
+<script src="js/jquery-1.11.3.min.js"></script>
+<script src="js/city.js"></script>
 <script>
 $(function(){
    city_selector();
